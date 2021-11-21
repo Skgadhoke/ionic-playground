@@ -1,0 +1,6 @@
+{
+	"appId": "io.gg.myaudio",
+	"appName": "my-audio",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my-audio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
