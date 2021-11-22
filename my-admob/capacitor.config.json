@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "my-admob",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
